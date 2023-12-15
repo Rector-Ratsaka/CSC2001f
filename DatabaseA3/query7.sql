@@ -1,0 +1,1 @@
+select count(distinct lastName) as number from employees

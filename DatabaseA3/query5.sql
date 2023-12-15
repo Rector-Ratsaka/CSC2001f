@@ -1,0 +1,1 @@
+select employeeNumber from employees where email is null or email not like "%cars.com"

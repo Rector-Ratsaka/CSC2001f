@@ -1,0 +1,1 @@
+select reportsTo as manager, count(employeeNumber) as managing from employees group by reportsTo having count(*) > 3

@@ -1,0 +1,1 @@
+select employeeNumber,lastName from employees order by lastname asc

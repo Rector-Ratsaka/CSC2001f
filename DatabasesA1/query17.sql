@@ -1,0 +1,1 @@
+select employeeNumber, city  from employees as e,offices as o where e.officeCode = o.officeCode

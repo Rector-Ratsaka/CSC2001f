@@ -1,0 +1,1 @@
+select employeeNumber,lastName from employees

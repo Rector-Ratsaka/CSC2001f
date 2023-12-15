@@ -1,0 +1,1 @@
+select officeCode,count(officeCode) as number from employees group by officeCode
